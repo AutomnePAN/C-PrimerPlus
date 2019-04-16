@@ -1,0 +1,5 @@
+﻿  Stonewt.cpp
+  stone_wt.cpp
+c:\users\automne\source\repos\c++programs\stonewt\stonewt\stone_wt.cpp(23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  Stonewt.vcxproj -> C:\Users\Automne\source\repos\c++programs\Stonewt\Debug\Stonewt.exe

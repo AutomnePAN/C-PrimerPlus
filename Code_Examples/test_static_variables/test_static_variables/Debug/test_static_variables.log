@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  support.cpp
+c:\users\automne\source\repos\c++programs\test_static_variables\test_static_variables\support.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  test_static_variables.cpp
+  正在生成代码...
+  test_static_variables.vcxproj -> C:\Users\Automne\source\repos\c++programs\test_static_variables\Debug\test_static_variables.exe

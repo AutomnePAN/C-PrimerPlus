@@ -1,0 +1,4 @@
+﻿  test_Template_Friend_To_Template_Class.cpp
+test_Template_Friend_To_Template_Class.obj : error LNK2001: 无法解析的外部符号 "private: static int HasFriendT<int>::ct" (?ct@?$HasFriendT@H@@0HA)
+test_Template_Friend_To_Template_Class.obj : error LNK2001: 无法解析的外部符号 "private: static int HasFriendT<double>::ct" (?ct@?$HasFriendT@N@@0HA)
+C:\Users\Automne\source\repos\c++programs\test_Template_Friend_To_Template_Class\Debug\test_Template_Friend_To_Template_Class.exe : fatal error LNK1120: 2 个无法解析的外部命令

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_header_adding", "test_header_adding\test_header_adding.vcxproj", "{296173F9-AD26-45CE-8406-6325A2CBD677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{296173F9-AD26-45CE-8406-6325A2CBD677}.Debug|x64.ActiveCfg = Debug|x64
+		{296173F9-AD26-45CE-8406-6325A2CBD677}.Debug|x64.Build.0 = Debug|x64
+		{296173F9-AD26-45CE-8406-6325A2CBD677}.Debug|x86.ActiveCfg = Debug|Win32
+		{296173F9-AD26-45CE-8406-6325A2CBD677}.Debug|x86.Build.0 = Debug|Win32
+		{296173F9-AD26-45CE-8406-6325A2CBD677}.Release|x64.ActiveCfg = Release|x64
+		{296173F9-AD26-45CE-8406-6325A2CBD677}.Release|x64.Build.0 = Release|x64
+		{296173F9-AD26-45CE-8406-6325A2CBD677}.Release|x86.ActiveCfg = Release|Win32
+		{296173F9-AD26-45CE-8406-6325A2CBD677}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49BCD63E-3211-4B70-AEF9-B0DFCED05B6F}
+	EndGlobalSection
+EndGlobal

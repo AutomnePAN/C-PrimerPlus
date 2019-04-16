@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_Template_Friend_To_Template_Class", "test_Template_Friend_To_Template_Class\test_Template_Friend_To_Template_Class.vcxproj", "{14187F02-DB41-4F11-AACC-E2FBA759856B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14187F02-DB41-4F11-AACC-E2FBA759856B}.Debug|x64.ActiveCfg = Debug|x64
+		{14187F02-DB41-4F11-AACC-E2FBA759856B}.Debug|x64.Build.0 = Debug|x64
+		{14187F02-DB41-4F11-AACC-E2FBA759856B}.Debug|x86.ActiveCfg = Debug|Win32
+		{14187F02-DB41-4F11-AACC-E2FBA759856B}.Debug|x86.Build.0 = Debug|Win32
+		{14187F02-DB41-4F11-AACC-E2FBA759856B}.Release|x64.ActiveCfg = Release|x64
+		{14187F02-DB41-4F11-AACC-E2FBA759856B}.Release|x64.Build.0 = Release|x64
+		{14187F02-DB41-4F11-AACC-E2FBA759856B}.Release|x86.ActiveCfg = Release|Win32
+		{14187F02-DB41-4F11-AACC-E2FBA759856B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B769AFA6-B615-4757-942B-9E2B3FDBB8A7}
+	EndGlobalSection
+EndGlobal
